@@ -59,7 +59,7 @@ Using `PROGMEM` is also a two-step procedure. After getting the data into Flash 
 [float]
 === Example Code
 // Describe what the example code is all about and add relevant code   ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
-The following code fragments illustrate how to read and write unsigned chars (bytes) and ints (2 bytes) to PROGMEM.
+The following code fragments illustrate how to read unsigned chars (bytes) and ints (2 bytes) from PROGMEM and print them out.
 
 [source,arduino]
 ----
